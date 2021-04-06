@@ -32,7 +32,11 @@ p {
 
 @media (max-width: 992px) {
     .petite {
-        height: 400px;
+        height: 250px;
         width: 100%;
+    }
+
+    .grande {
+        height: 250px;
     }
 }
